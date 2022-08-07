@@ -1,0 +1,65 @@
+@media (min-width: 576px) { }
+@media (min-width: 768px) { }
+@media (min-width: 992px) {  }
+@media (min-width: 1200px) { }
+
+
+
+.container {  
+    
+  background-color:white;  
+}  
+
+
+
+
+.alert-alert-success{
+
+    padding: 50px;
+    color: white;
+    background-color: rgb(66, 144, 66);
+
+    display: flex;
+    flex-direction: column;
+}
+
+footer{
+    padding-top: 100%;
+}
+
+#input-container {
+    position: relative;
+  }
+  
+  #input-container > span {
+    position: absolute;
+    top: 6px;
+    left: 15px;
+  }
+  
+  #input-container > input {
+    padding-left: 40px;
+  }
+
+
+
+
+
+  #input-container-1 {
+    position: relative;
+  }
+  
+  #input-container-1 > span {
+    position: absolute;
+    top: 6px;
+    left: 15px;
+  }
+  
+  #input-container-1 > input {
+    padding-left: 40px;
+  }
+
+  option{
+    text-align: center;
+    padding-left: 100px;
+  }
